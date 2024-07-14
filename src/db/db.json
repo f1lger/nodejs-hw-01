@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "231e7bd5-a441-49a5-928c-dad547b62656",
+    "name": "Howard Treutel",
+    "phone": "253.726.3648 x604",
+    "email": "Monserrate_Crona@yahoo.com",
+    "job": "Investor Quality Analyst"
+  },
+  {
+    "id": "15de310a-0322-4151-aeb4-ad6b2b916e84",
+    "name": "Tracy Jones II",
+    "phone": "(693) 631-1989",
+    "email": "Concepcion59@gmail.com",
+    "job": "National Security Coordinator"
+  }
+]
